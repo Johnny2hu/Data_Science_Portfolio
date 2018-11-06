@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Project
 This repository consists of data science projects completed by Zhangli Hu.
 
 ## Content
